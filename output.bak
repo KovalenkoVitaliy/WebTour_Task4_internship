@@ -1,0 +1,18 @@
+user1.c(42): В теле user1
+user1.c(62): Number of Tickets of user1 is: 1
+user1.c(63): Number of FirstClass of user1 is: 1
+user1.c(64): ________________________________________________________________
+user2.c(42): В теле user2
+user2.c(62): Number of Tickets of user2 is: 1
+user2.c(63): Number of FirstClass of user2 is: 1
+user2.c(64): ________________________________________________________________
+user3.c(42): В теле user3
+user3.c(62): Number of Tickets of user3 is: 5
+user3.c(63): Number of FirstClass of user3 is: 3
+user3.c(64): ________________________________________________________________
+poiskFirst.c(19): Max count of First class is: 3
+poiskFirst.c(21): Number user for delete ticket is: 2
+poiskFirst.c(24): ________________________________________________________________
+DeleteTicket.c(62): Number of Tickets on page is: 5
+DeleteTicket.c(67): Number of Tickets for DELETE is: 4
+Vuser Terminated.

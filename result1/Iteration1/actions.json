@@ -1,0 +1,137 @@
+[
+    {
+        "actionName": "vuser_init",
+        "steps": [],
+        "transactions": []
+    },
+    {
+        "actionName": "user1",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: Webtours",
+                "infFile": "t1.inf",
+                "time": 1616266252296
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t2.inf",
+                "time": 1616266254513
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: Itinerary Button",
+                "infFile": "t3.inf",
+                "time": 1616266254747
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: SignOff Button",
+                "infFile": "t4.inf",
+                "time": 1616266254953
+            }
+        ],
+        "transactions": []
+    },
+    {
+        "actionName": "user2",
+        "steps": [
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: Webtours",
+                "infFile": "t5.inf",
+                "time": 1616266255165
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t6.inf",
+                "time": 1616266255379
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: Itinerary Button",
+                "infFile": "t7.inf",
+                "time": 1616266255746
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Url: SignOff Button",
+                "infFile": "t8.inf",
+                "time": 1616266255979
+            }
+        ],
+        "transactions": []
+    },
+    {
+        "actionName": "user3",
+        "steps": [
+            {
+                "stepId": "STEP9",
+                "stepName": "Url: Webtours",
+                "infFile": "t9.inf",
+                "time": 1616266256229
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t10.inf",
+                "time": 1616266256641
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Url: Itinerary Button",
+                "infFile": "t11.inf",
+                "time": 1616266256858
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Url: SignOff Button",
+                "infFile": "t12.inf",
+                "time": 1616266257083
+            }
+        ],
+        "transactions": []
+    },
+    {
+        "actionName": "poiskFirst",
+        "steps": [],
+        "transactions": []
+    },
+    {
+        "actionName": "DeleteTicket",
+        "steps": [
+            {
+                "stepId": "STEP13",
+                "stepName": "Url: Webtours",
+                "infFile": "t13.inf",
+                "time": 1616266257335
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t14.inf",
+                "time": 1616266257560
+            },
+            {
+                "stepId": "STEP15",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t15.inf",
+                "time": 1616266257776
+            },
+            {
+                "stepId": "STEP16",
+                "stepName": "Submit Data: itinerary.pl",
+                "infFile": "t16.inf",
+                "time": 1616266257891
+            }
+        ],
+        "transactions": []
+    },
+    {
+        "actionName": "vuser_end",
+        "steps": [],
+        "transactions": []
+    }
+]

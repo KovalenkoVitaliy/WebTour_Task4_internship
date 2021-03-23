@@ -1,0 +1,12 @@
+[vuser_init]
+SnapshotIndex=I1_vuser_init
+[poiskFirst]
+SnapshotIndex=I1_poiskFirst
+[user1]
+SnapshotIndex=I1_user1
+[user2]
+SnapshotIndex=I1_user2
+[user3]
+SnapshotIndex=I1_user3
+[DeleteTicket]
+SnapshotIndex=I1_DeleteTicket

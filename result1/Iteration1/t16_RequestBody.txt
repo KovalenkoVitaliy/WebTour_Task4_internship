@@ -1,0 +1,4 @@
+"flightID=3108-841-%26%2310%3B&flightID=1128-1574-%26%2310%3B&flightID=25946-2349-%26%2310%3B&f"
+"lightID=30422-30877-%26%2310%3B&flightID=%7BflightID_5%7D&flightID=%7BflightID_6%7D&flightID=%"
+"7BflightID_7%7D&flightID=%7BflightID_8%7D&flightID=%7BflightID_9%7D&3=on&flightID=%7BflightID_"
+"10%7D&.cgifields=1&.cgifields=3&.cgifields=2&removeFlights.x=39&removeFlights.y=14"
